@@ -1,9 +1,2 @@
-# jackHack2023
-
-## member
-
-- マロン
-- さぼてん
-- のっこ
-- じんじん
-- こっと
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
